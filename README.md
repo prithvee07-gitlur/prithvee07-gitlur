@@ -26,7 +26,7 @@ with a passion for building and learning.<br><br>
 - 🌱 I'm currently learning **Python | HTML | CSS | Linux CLI**
 - 👯 I'm looking to collaborate on **open-source projects & hackathons**
 - 🏆 Recent milestone: Reached **2nd round of AARAMBHATHON 2025** with team **SYNTAX SQUAD**
-- 🛠️ Building: **Personal Portfolio Website** & **Job Application Tracker System**
+- 🛠️ Building: **Personal Portfolio Website**
 - 💬 Ask me about **Python, web dev basics, or hackathon tips**
 - 📫 How to reach me: **prithveeyadav@gmail.com**
 - 😄 Pronouns: He/Him
