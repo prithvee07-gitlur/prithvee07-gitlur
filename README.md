@@ -9,7 +9,7 @@
 
 > *"Code it. Break it. Fix it. Ship it — one commit at a time."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=C7D6D9F3&background=FFE7C800&center=true&vCenter=true&random=true&width=500&lines=First-Year+B.Tech+CS+Student+%F0%9F%8E%93;Python+%7C+HTML+%7C+CSS+%7C+Linux+%F0%9F%90%A7;Building+cool+things+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=C7D6D9F3&background=FFE7C800&center=true&vCenter=true&random=true&width=500&lines=First-Year+B.Tech+CS+Student+%F0%9F%8E%93;Next.js+%7C+React+%7C+TypeScript+%F0%9F%92%BB;Python+%7C+HTML+%7C+CSS+%7C+Linux+%F0%9F%90%A7;Building+cool+things+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <hr width="40%">
 
@@ -22,12 +22,13 @@ with a passion for building and learning.<br><br>
 </div>
 <br>
 
-- 🔭 I'm currently working on a **Safety-First Navigation Tool** — a route calculator that prioritizes security over speed
-- 🌱 I'm currently learning **Python | HTML | CSS | Linux CLI**
+- 🔭 I'm currently working on [**EduNexus-Gidhaur**](https://github.com/prithvee07-gitlur/EduNexus-Gidhaur) — a modular academic platform for digital learning materials, dynamic examinations, report cards, and attendance automation
+- 🌱 I'm currently building with **Next.js | React | TypeScript | Supabase** and learning **Python | HTML | CSS | Linux CLI**
 - 👯 I'm looking to collaborate on **open-source projects & hackathons**
-- 🏆 Recent milestone: Reached **2nd round of AARAMBHATHON 2025** with team **SYNTAX SQUAD**
+- 🏅 **IEEE INDICON 2026 — MNIT Jaipur:** Selected with the [**Safety-First Navigation Web Application**](https://www.linkedin.com/posts/prithvee-singh-yadav-9a1270373_ieee-indiscon2026-mnitjaipur-ugcPost-7506068588999446531-4_29/)
+- 🏆 **AARAMBHATHON 2025:** Reached the **2nd round** with team **SYNTAX SQUAD**
 - 🛠️ Building: **Personal Portfolio Website**
-- 💬 Ask me about **Python, web dev basics, or hackathon tips**
+- 💬 Ask me about **Next.js, React, Supabase, Python, or hackathon projects**
 - 📫 How to reach me: **prithveeyadav@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm hitting the gym, surviving in **Terraria**, or diving into **analog horror stories**
@@ -44,11 +45,11 @@ with a passion for building and learning.<br><br>
 
 <div align="center">
 
-**🛡️ Safety-First Navigation Tool**
+**📚 [EduNexus-Gidhaur](https://github.com/prithvee07-gitlur/EduNexus-Gidhaur)**
 
-A navigation system that calculates the **most secure routes** for users.<br>
-Instead of just finding the fastest path, this tool leverages **Python, HTML, and CSS**<br>
-to evaluate and recommend routes that prioritize **peace of mind**.
+A modular academic repository and school management platform.<br>
+It combines dynamic assessments, digital report cards, academic resources,<br>
+and streamlined attendance tracking for semi-urban and rural schools.
 
 </div>
 
@@ -63,6 +64,10 @@ to evaluate and recommend routes that prioritize **peace of mind**.
     <td width="50%" align="center" valign="middle">
       <h3 align="left">🎯 Learning Focus</h3>
       <ul align="left">
+        <li>Building full-stack applications with <b>Next.js</b> and <b>React</b></li>
+        <li>Designing responsive interfaces with <b>Tailwind CSS</b></li>
+        <li>Managing application data and authentication with <b>Supabase</b></li>
+        <li>Developing dynamic assessments, report cards, and attendance workflows</li>
         <li>Deepening knowledge in <b>Python</b> development</li>
         <li>Building responsive websites with <b>HTML & CSS</b></li>
         <li>Getting comfortable with the <b>Linux command line</b></li>
@@ -72,15 +77,22 @@ to evaluate and recommend routes that prioritize **peace of mind**.
     <td width="50%" valign="middle">
       <h3 align="left">🛠️ Current Tech Stack</h3>
       <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+        <img src="https://img.shields.io/badge/React_PDF-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+        <br/>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <br/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <br/>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <br/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
       </div>
